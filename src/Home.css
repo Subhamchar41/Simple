@@ -1,0 +1,15 @@
+.pad{
+    padding: 5%;
+    background-color: aqua;
+}
+
+.mad {
+    padding: 2%;
+    background-color: beige;
+}
+.part{
+    position: absolute;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
